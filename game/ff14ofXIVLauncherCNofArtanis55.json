@@ -87,31 +87,31 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/store/punish/AutoRetainer_Testing.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
     },
-	{
-        "Name": "Daily Routines",
-        "InternalName": "DailyRoutines",
-        "AssemblyVersion": "0.5.3.4",
-        "TestingAssemblyVersion": "0.5.3.4",
-        "Author": "AtmoOmen",
-        "DownloadCount": 155166,
-        "Punchline": "\u5e2e\u5fd9\u89e3\u51b3\u4e00\u4e9b\u65e5\u5e38\u91cd\u590d\u6027\u52b3\u52a8",
-        "Description": "\u8f7b\u91cf\u5316\u3001\u4f4e\u6027\u80fd\u6d88\u8017\u3001\u7b80\u5355\u7684\u81ea\u52a8\u5316\u529f\u80fd/\u6613\u7528\u6027\u6539\u52a8\u5408\u96c6, \u5e2e\u4f60\u4ece\u4e00\u4e9b\u65e0\u610f\u4e49\u7684\u91cd\u590d\u6027\u5de5\u4f5c\u4e2d\u89e3\u653e\u51fa\u6765\n\n\u6ce8: \u63d2\u4ef6\u514d\u8d39\u5f00\u6e90, \u4ec5\u652f\u6301\u5728\u7ebf\u5b89\u88c5",
-        "Changelog": "\u8bf7\u5230\u63d2\u4ef6\u5185 \u8bbe\u7f6e \u9875\u9762\u67e5\u9605\u6700\u65b0\u7248\u672c\u7684\u66f4\u65b0\u65e5\u5fd7",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "Daily",
-            "Auto",
-            "\u65e5\u5e38",
-            "\u81ea\u52a8"
-        ],
-        "DalamudApiLevel": 9,
-        "AcceptsFeedback": true,
-        "RepoUrl": "https://github.com/AtmoOmen/DailyRoutines",
-        "IconUrl": "https://gh.atmoomen.top/https://raw.githubusercontent.com/AtmoOmen/DailyRoutines/main/imgs/icon.png",
-        "DownloadLinkInstall": "https://gh.atmoomen.top/https://github.com/AtmoOmen/DailyRoutines/releases/download/0.5.3.4/latest.zip",
-        "DownloadLinkTesting": "https://gh.atmoomen.top/https://github.com/AtmoOmen/DailyRoutines/releases/download/0.5.3.4/latest.zip",
-        "DownloadLinkUpdate": "https://gh.atmoomen.top/https://github.com/AtmoOmen/DailyRoutines/releases/download/0.5.3.4/latest.zip"
-    },
+  {
+    "Name": "Daily Routines",
+    "InternalName": "DailyRoutines",
+    "AssemblyVersion": "0.5.3.6",
+    "TestingAssemblyVersion": "0.5.3.6",
+    "Author": "AtmoOmen",
+    "DownloadCount": 155166,
+    "Punchline": "帮忙解决一些日常重复性劳动",
+    "Description": "轻量化、低性能消耗、简单的自动化功能/易用性改动合集, 帮你从一些无意义的重复性工作中解放出来\n\n注: 插件免费开源, 仅支持在线安装",
+    "Changelog": "请到插件内 设置 页面查阅最新版本的更新日志",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Daily",
+      "Auto",
+      "日常",
+      "自动"
+    ],
+    "DalamudApiLevel": 9,
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/AtmoOmen/DailyRoutines",
+    "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/DailyRoutines/main/imgs/icon.png",
+    "DownloadLinkInstall": "https://github.com/AtmoOmen/DailyRoutines/releases/download/0.5.3.6/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AtmoOmen/DailyRoutines/releases/download/0.5.3.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AtmoOmen/DailyRoutines/releases/download/0.5.3.6/latest.zip"
+  },
 	 {
         "Name": "GatherBuddy Reborn",
         "InternalName": "GatherbuddyReborn",
@@ -150,5 +150,25 @@
         "DownloadLinkTesting": "https://gh.atmoomen.top/https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.0.4.0/latest.zip",
         "DownloadLinkUpdate": "https://gh.atmoomen.top/https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.0.4.0/latest.zip"
     },
+	{
+    "Author": "daemitus, kawaii",
+    "Name": "Yes Already",
+    "Punchline": "Clicks Yes in various dialogs you've specified.",
+    "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
+    "Tags": [],
+    "InternalName": "YesAlready",
+    "RepoUrl": "https://github.com/PunishXIV/YesAlready",
+    "DownloadCount": 171670,
+    "LastUpdate": 1718695437654,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
+    "AssemblyVersion": "1.6.3.5",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "9",
+    "Changelog": "bother for accepting the return prompt but only when you're alive",
+    "TestingAssemblyVersion": "1.4.0.3",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/testing.zip",
+    "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
+  }
 	
 ]
