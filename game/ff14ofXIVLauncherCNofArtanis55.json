@@ -3,12 +3,12 @@
     "Name": "Aether Compass [Preview]",
     "Author": "yomishino",
     "Punchline": "Compasses that detect and mark certain nearby objects/NPCs",
-    "Description": "[Important!] Please disable AND uninstall any non-preview version if you'd like to install this version.\n\nThis plugin detects certain objects/NPCs such as Aether Currents nearby and shows where they are by various ways, e.g. pointing to their locations on screen and notifying you in Chat.\n\nCurrently detects:\n\t- Aether Currents\n\t- Eureka Elementals (by apetih)\n\t- Mob Hunt Elite Marks\n\t- Gathering Points\n\t- [Experimental] Island Sanctuary Gathering Objects and Animals\n\t- [Experimental] Quest-related NPCs/Objects\n\t- [Experimental] Eureka Elementals (by apetih) \n\nNote: Because most objects/NPCs are not loaded when they are too faraway or when there are too many entities nearby (such as too many player characters), they will not be detected in this case.\n\nIcon by Lumas Arkfrost",
+    "Description": "[重要！] 如果您想安装此版本，请禁用并卸载任何非预览版本。\n\n此插件可检测附近的某些对象/NPC，如以太气流等，并通过多种方式显示它们的位置，例如，在屏幕上指向其位置并在聊天中通知您。\n\n当前可检测：\n\t- 以太气流\n\t- 尤雷卡元素体（由apetih提供）\n\t- 怪物狩猎精英标记\n\t- 采集点\n\t- [实验性]岛屿庇护所采集对象和动物\n\t- [实验性]与任务相关的NPC/对象\n\t- [实验性]尤雷卡元素体（由apetih提供）\n\n注意：由于大多数对象/NPC在距离过远或附近实体过多（如玩家角色过多）时不会加载，因此在此情况下它们将不会被检测到。\n\n图标由Lumas Arkfrost提供",
     "RepoUrl": "https://github.com/yomishino/FFXIVAetherCompass",
     "Tags": [
-      "UI",
-      "map",
-      "compass"
+    "UI",
+    "map",
+    "compass"
     ],
     "ImageUrls": "",
     "IconUrl": "https://raw.githubusercontent.com/yomishino/FFXIVAetherCompass/master/res/img/icon_by_arkfrostlumas.png",
@@ -19,9 +19,9 @@
     "AssemblyVersion": "1.6.4.0",
     "IsTestingExclusive": "False",
     "Changelog": "- Fix: Not detecting gathering objects in Island Sanctuary",
-    "DownloadLinkInstall": "https://github.com/yomishino/FFXIVAetherCompass/releases/latest/download/FFXIVAetherCompass.zip",
-    "DownloadLinkTesting": "https://github.com/yomishino/FFXIVAetherCompass/releases/latest/download/FFXIVAetherCompass.zip",
-    "DownloadLinkUpdate": "https://github.com/yomishino/FFXIVAetherCompass/releases/latest/download/FFXIVAetherCompass.zip",
+    "DownloadLinkInstall": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
+    "DownloadLinkTesting": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
     "LastUpdate": "1700053462"
   },
  {
@@ -34,14 +34,14 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 963314,
+        "DownloadCount": 0,
         "LastUpdate": 1712908768433,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/store/punish/Artisan_Install.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/store/punish/Artisan_Update.zip",
-        "AssemblyVersion": "3.0.5.10",
+        "AssemblyVersion": "93.0.5.10",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "9",
-        "Changelog": "- Adds hold shift to generate GC lists with only starred items.\n- Updated list ingredient remaining calculations\n- Fixed an issue with not having buffs would cause the plugin to do nothing.",
+        "Changelog": "-添加按住 Shift 键以仅生成带有星标项目的 GC 列表的功能。\n- 更新列表中剩余原料的计算方式\n- 修复了没有增益效果时插件无响应的问题。",
         "TestingAssemblyVersion": "3.0.5.2",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/store/punish/Artisan_Testing.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
@@ -67,26 +67,26 @@
         "Changelog": "Click the Changelog button to see whats new",
         "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
     },
-  {
-    "Author": "kawaii, NightmareXIV",
-    "Name": "AutoRetainer",
-    "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-    "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-    "Tags": [],
-    "InternalName": "AutoRetainer",
-    "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-    "DownloadCount": 312631,
-    "LastUpdate": 1707586190985,
-    "DownloadLinkInstall": "https://github.com/PunishXIV/AutoRetainer/releases/latest/download/AutoRetainer.zip",
-    "DownloadLinkUpdate": "https://github.com/PunishXIV/AutoRetainer/releases/latest/download/AutoRetainer.zip",
-    "AssemblyVersion": "4.2.5.9",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "9",
-    "Changelog": "",
-    "TestingAssemblyVersion": "4.2.6.2",
-    "DownloadLinkTesting": "https://github.com/PunishXIV/AutoRetainer/releases/latest/download/AutoRetainer.zip",
-    "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
-  },
+    {
+        "Author": "kawaii, NightmareXIV",
+        "Name": "AutoRetainer",
+        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "Tags": [],
+        "InternalName": "AutoRetainer",
+        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+        "DownloadCount": 312631,
+        "LastUpdate": 1707586190985,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/store/punish/AutoRetainer_Install.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/store/punish/AutoRetainer_Update.zip",
+        "AssemblyVersion": "4.2.5.9",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "",
+        "TestingAssemblyVersion": "4.2.6.2",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/store/punish/AutoRetainer_Testing.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
+    },
   {
     "Name": "Daily Routines",
     "InternalName": "DailyRoutines",
@@ -108,9 +108,9 @@
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/AtmoOmen/DailyRoutines",
     "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/DailyRoutines/main/imgs/icon.png",
-    "DownloadLinkInstall": "https://github.com/AtmoOmen/DailyRoutines/releases/download/0.5.4.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/AtmoOmen/DailyRoutines/releases/download/0.5.4.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AtmoOmen/DailyRoutines/releases/download/0.5.4.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/AtmoOmen/DailyRoutines/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AtmoOmen/DailyRoutines/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AtmoOmen/DailyRoutines/releases/latest/download/latest.zip"
   },
     {
         "Author": "daemitus, kawaii",
@@ -142,16 +142,16 @@
     "Description": "GatherBuddy 自动采集版, 需要安装并启用 vnavmesh 用于寻路",
     "ApplicableVersion": "any",
     "Tags": [
-      "采集",
-      "钓鱼",
-      "自动"
+        "采集",
+        "钓鱼",
+        "自动"
     ],
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/AtmoOmen/GatherBuddyReborn",
-    "IconUrl": "https://gh.atmoomen.top/https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
-    "DownloadLinkInstall": "https://github.com/AtmoOmen/GatherBuddyReborn/releases/latest/download/GatherBuddyReborn.zip",
-    "DownloadLinkUpdate": "https://github.com/AtmoOmen/GatherBuddyReborn/releases/latest/download/GatherBuddyReborn.zip"
+    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
+    "DownloadLinkInstall": "https://github.com/AtmoOmen/GatherBuddyReborn/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AtmoOmen/GatherBuddyReborn/releases/latest/download/latest.zip"
   },
   {
     "Name": "vnavmesh",
