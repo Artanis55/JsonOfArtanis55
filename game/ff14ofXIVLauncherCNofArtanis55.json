@@ -18,7 +18,6 @@
     "LoadPriority": 0,
     "AssemblyVersion": "1.6.4.0",
     "IsTestingExclusive": "False",
-    "Changelog": "- Fix: Not detecting gathering objects in Island Sanctuary",
     "DownloadLinkInstall": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
     "DownloadLinkTesting": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
     "DownloadLinkUpdate": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/AetherCompass/latest.zip",
@@ -38,18 +37,15 @@
         "LastUpdate": 1712908768433,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/store/punish/Artisan_Install.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/store/punish/Artisan_Update.zip",
-        "AssemblyVersion": "93.0.5.10",
+        "AssemblyVersion": "3.0.5.10",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "9",
-        "Changelog": "-添加按住 Shift 键以仅生成带有星标项目的 GC 列表的功能。\n- 更新列表中剩余原料的计算方式\n- 修复了没有增益效果时插件无响应的问题。",
-        "TestingAssemblyVersion": "3.0.5.2",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/store/punish/Artisan_Testing.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
     },
 {
         "Author": "Det, Taurenkey",
         "Name": "Auto Hook",
-        "Punchline": "Makes fishing less (or more) boring",
+        "Punchline": "让钓鱼变得不那么（或更）无聊",
         "Description": "It hooks the fish for you, can you believe it?\n https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json",
         "Tags": [
             "Gathering",
@@ -70,8 +66,8 @@
     {
         "Author": "kawaii, NightmareXIV",
         "Name": "AutoRetainer",
-        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "Punchline": "从舒适的床上收集和分配任务给你的随从。",
+        "Description": "从舒适的床上收集和分配任务给你的随从。",
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
@@ -127,7 +123,6 @@
         "AssemblyVersion": "1.6.2.0",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "9",
-        "Changelog": "forced-yes works on talk\njumbo cactpot bother\nprevent blank entries from being added to talk",
         "TestingAssemblyVersion": "1.4.0.3",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/store/punish/YesAlready_Testing.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
@@ -169,5 +164,21 @@
     "DownloadLinkInstall": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/latest/download/ffxiv_navmesh-cn.zip",
     "DownloadLinkTesting": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/latest/download/ffxiv_navmesh-cn.zip",
     "DownloadLinkUpdate": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/latest/download/ffxiv_navmesh-cn.zip"
-  },  
+  },
+  {
+	  "Name": "V(ery) Island",
+    "InternalName": "visland",
+    "AssemblyVersion": "0.0.5.0",
+    "Author": "veyn, AtmoOmen",
+    "DownloadCount": 388168,
+    "Punchline": "自动化无人岛采集作业",
+    "Description": "自动化无人岛采集/工房作业等等\n\n国服适配与汉化: AtmoOmen\n答应我, 别闲鱼买挂了好吗?",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/AtmoOmen/ffxiv_visland-cn",
+    "DownloadLinkInstall": "https://github.com/AtmoOmen/ffxiv_visland-cn/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AtmoOmen/ffxiv_visland-cn/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AtmoOmen/ffxiv_visland-cn/releases/latest/download/latest.zip"
+  },
 ]
