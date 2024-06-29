@@ -46,27 +46,27 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/store/punish/Artisan_Testing.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
     },
-  {
-    "Author": "Det, Taurenkey",
-    "Name": "Auto Hook",
-    "Punchline": "Makes fishing less (or more) boring",
-    "Description": "It hooks the fish for you, can you believe it?",
-    "Tags": [
-      "Gathering",
-      "Fishing"
-    ],
-    "InternalName": "AutoHook",
-    "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-    "DownloadCount": 102858,
-    "LastUpdate": 1712255389467,
-    "DownloadLinkInstall": "https://github.com/PunishXIV/AutoHook/releases/latest/download/AutoHook.zip",
-    "DownloadLinkUpdate": "https://github.com/PunishXIV/AutoHook/releases/latest/download/AutoHook.zip",
-    "AssemblyVersion": "4.2.2.0",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "9",
-    "Changelog": "Click the Changelog button to see whats new",
-    "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
-  },
+{
+        "Author": "Det, Taurenkey",
+        "Name": "Auto Hook",
+        "Punchline": "Makes fishing less (or more) boring",
+        "Description": "It hooks the fish for you, can you believe it?\n https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json",
+        "Tags": [
+            "Gathering",
+            "Fishing"
+        ],
+        "InternalName": "AutoHook",
+        "RepoUrl": "https://github.com/PunishXIV/AutoHook",
+        "DownloadCount": 0,
+        "LastUpdate": 1712255389467,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/store/punish/AutoHook_Install.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/store/punish/AutoHook_Update.zip",
+        "AssemblyVersion": "4.2.2.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "Click the Changelog button to see whats new",
+        "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
+    },
   {
     "Author": "kawaii, NightmareXIV",
     "Name": "AutoRetainer",
