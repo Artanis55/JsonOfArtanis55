@@ -210,8 +210,6 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.1.0.9/BossModReborn.zip",
         "AssemblyVersion": "1.1.0.9",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
-        "TestingAssemblyVersion": "1.0.2.1",
-        "Changelog": "## What's Changed\r\n* build fixes for code analyzer  by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/154\r\n\r\n* Initial support pass for every Dawntrail dungeon by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/153\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.0.0...7.0.0.1\r\nhttps://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
-	"OriginalLink":"https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
+        "TestingAssemblyVersion": "1.0.2.1"
     },
 ]
