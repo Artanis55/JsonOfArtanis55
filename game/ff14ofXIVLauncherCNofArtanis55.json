@@ -113,11 +113,8 @@
         "Name": "Yes Already",
         "Punchline": "Clicks Yes in various dialogs you've specified.",
         "Description": "厌倦了在皇宫里点击“是”吗？受不了在地下城里使用键盘了吗？我有一个插件很适合你！Yes Already插件专门设计用来点击那些你已经习以为常的烦人对话框。只要输入对话框的文本，你就再也不会看到它了！它同样支持/regex/，并且有几个内置模块可以处理那些不是“是/否”提示但表现得像“是/否”提示的对话（如分解）。",
-        "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 75481,
-        "LastUpdate": 1713101956471,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/store/punish/YesAlready_Install.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/store/punish/YesAlready_Update.zip",
         "AssemblyVersion": "1.6.2.0",
@@ -181,4 +178,40 @@
     "DownloadLinkTesting": "https://github.com/AtmoOmen/ffxiv_visland-cn/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/AtmoOmen/ffxiv_visland-cn/releases/latest/download/latest.zip"
   },
+{
+        "Author": "The CombatReborn Team",
+        "Name": "BossMod Reborn",
+        "InternalName": "BossModReborn",
+        "Description": "A bunch of utilities to simplify boss mechanics",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "combat",
+            "boss",
+            "dodge",
+            "mechanics",
+            "pve",
+            "raids",
+            "trials"
+        ],
+        "DalamudApiLevel": 10,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "IsTestingExclusive": false,
+        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+        "Punchline": "Don't fail at raid mechanics anymore",
+        "AcceptsFeedback": true,
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image1.png",
+            "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
+            "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.1.0.9/BossModReborn.zip",
+        "AssemblyVersion": "1.1.0.9",
+        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
+        "TestingAssemblyVersion": "1.0.2.1",
+        "Changelog": "## What's Changed\r\n* build fixes for code analyzer  by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/154\r\n\r\n* Initial support pass for every Dawntrail dungeon by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/153\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.0.0...7.0.0.1\r\nhttps://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
+	"OriginalLink":"https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
+    },
 ]
