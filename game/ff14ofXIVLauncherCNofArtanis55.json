@@ -181,7 +181,7 @@
     "DownloadLinkTesting": "https://github.com/AtmoOmen/ffxiv_visland-cn/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/AtmoOmen/ffxiv_visland-cn/releases/latest/download/latest.zip"
   },
-{
+	{
         "Author": "The CombatReborn Team",
         "Name": "BossMod Reborn",
         "InternalName": "BossModReborn",
@@ -205,7 +205,7 @@
 	"AssemblyVersion": "1.0.0.0",
 	"OriginalLink":"https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
     },
-{
+	{
         "Author": "ArchiTed",
         "Name": "Rotation Solver",
         "InternalName": "RotationSolver",
@@ -219,7 +219,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 10,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
@@ -227,7 +227,10 @@
         "IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/RotationSolver/main/Images/Logo.png",
         "Punchline": "Analyses combat information in every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.0.3/latest.zip",
-        "AssemblyVersion": "5.0.3",
+        "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.1.6/latest.zip",
+        "AssemblyVersion": "5.1.6",
+        "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.1.6/latest.zip",
+        "DownloadCount": 9850,
+        "Changelog": "## [5.1.6](https://github.com/ArchiDog1998/RotationSolver/compare/v5.1.5...v5.1.6) (2024-07-23)\n\n\n### Bug Fixes\n\n* update submodules. ([bf29f83](https://github.com/ArchiDog1998/RotationSolver/commit/bf29f83e9e4270c6026fe18db6a724c6bcfb75f3))"
     },
 ]
